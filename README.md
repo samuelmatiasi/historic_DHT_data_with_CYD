@@ -70,9 +70,11 @@ The touch input is handled with debounce logic to avoid repeated toggling.
 
 ## 🖥️ Screenshots
 
-![image](https://github.com/user-attachments/assets/5fc9b330-c2c2-496d-8019-d7c0f57619fa)
-![image](https://github.com/user-attachments/assets/e9d7ee6e-7b4b-4d89-baa0-588ccd13ed4c)
-![image](https://github.com/user-attachments/assets/9146999e-0a50-4583-9b27-0549d5779a69)
+![image](https://github.com/user-attachments/assets/7cde2bc7-411e-4fee-9b50-03eb9713459d)
+
+![image](https://github.com/user-attachments/assets/d9442d4f-08b4-4540-96a3-011d65f214ee)
+![image](https://github.com/user-attachments/assets/fb9e8593-c068-4c27-b0e0-25d9bbd45afd)
+
 
 
 
